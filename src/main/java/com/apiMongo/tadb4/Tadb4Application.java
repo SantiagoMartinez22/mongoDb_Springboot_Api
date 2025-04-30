@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Tadb4Application {
 
 	public static void main(String[] args) {
-		System.out.println("URI: " + System.getenv("MONGODB_URI"));
 		SpringApplication.run(Tadb4Application.class, args);
 	}
 
