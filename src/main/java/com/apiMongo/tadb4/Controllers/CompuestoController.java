@@ -14,7 +14,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/compuestos")
-@Tag(name = "Compuestos")
+@Tag(name = "Compuesto")
 public class CompuestoController {
     private final CompuestoService service;
 

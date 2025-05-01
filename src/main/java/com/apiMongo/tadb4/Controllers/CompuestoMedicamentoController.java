@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/compuestos-medicamento")
-@Tag(name = "Medicamento X Compuesto")
+@Tag(name = "Compuesto X Medicamento")
 public class CompuestoMedicamentoController {
     private final CompuestoMedicamentoService service;
 
