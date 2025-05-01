@@ -1,0 +1,26 @@
+[
+  {
+    "compuestoId": { "$oid": "6813a6f7c9f390b6c6ff7291" },
+    "medicamentoId": { "$oid": "6813a6d1c9f390b6c6ff728b" },
+    "concentracion": { "$numberDouble": "500.0" },
+    "unidadMedida": "mg"
+  },
+  {
+    "compuestoId": { "$oid": "6813a6f7c9f390b6c6ff7292" },
+    "medicamentoId": { "$oid": "6813a6d1c9f390b6c6ff728c" },
+    "concentracion": { "$numberDouble": "400.0" },
+    "unidadMedida": "mg"
+  },
+  {
+    "compuestoId": { "$oid": "6813a6f7c9f390b6c6ff7293" },
+    "medicamentoId": { "$oid": "6813a6d1c9f390b6c6ff728d" },
+    "concentracion": { "$numberDouble": "250.0" },
+    "unidadMedida": "mg/5ml"
+  },
+  {
+    "compuestoId": { "$oid": "6813a6f7c9f390b6c6ff7294" },
+    "medicamentoId": { "$oid": "6813a6d1c9f390b6c6ff728e" },
+    "concentracion": { "$numberDouble": "10.0" },
+    "unidadMedida": "mg"
+  }
+] 
