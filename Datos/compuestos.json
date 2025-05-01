@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6813a6f7c9f390b6c6ff7291"
+  },
+  "nombre": "Paracetamol"
+},
+{
+  "_id": {
+    "$oid": "6813a6f7c9f390b6c6ff7292"
+  },
+  "nombre": "Ibuprofeno"
+},
+{
+  "_id": {
+    "$oid": "6813a6f7c9f390b6c6ff7293"
+  },
+  "nombre": "Amoxicilina Trihidrato"
+},
+{
+  "_id": {
+    "$oid": "6813a6f7c9f390b6c6ff7294"
+  },
+  "nombre": "Loratadina"
+},
+{
+  "_id": {
+    "$oid": "6813a6f7c9f390b6c6ff7295"
+  },
+  "nombre": "Cafeína Anhidra"
+}]
