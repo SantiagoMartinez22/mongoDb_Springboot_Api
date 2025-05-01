@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6813a6d1c9f390b6c6ff728b"
+  },
+  "nombre": "Paracetamol 500mg",
+  "fabricante": "Genfar"
+},
+{
+  "_id": {
+    "$oid": "6813a6d1c9f390b6c6ff728c"
+  },
+  "nombre": "Ibuprofeno 400mg",
+  "fabricante": "MK"
+},
+{
+  "_id": {
+    "$oid": "6813a6d1c9f390b6c6ff728d"
+  },
+  "nombre": "Amoxicilina 250mg/5ml",
+  "fabricante": "La Sante"
+},
+{
+  "_id": {
+    "$oid": "6813a6d1c9f390b6c6ff728e"
+  },
+  "nombre": "Loratadina 10mg",
+  "fabricante": "Bayer"
+}]
