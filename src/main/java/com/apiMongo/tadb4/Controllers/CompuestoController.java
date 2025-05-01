@@ -1,21 +1,20 @@
 package com.apiMongo.tadb4.Controllers;
 
-
 import com.apiMongo.tadb4.Models.Compuesto;
 import com.apiMongo.tadb4.Models.CompuestoMedicamento;
 import com.apiMongo.tadb4.Services.CompuestoService;
 import com.apiMongo.tadb4.dto.CompuestoRequest;
+import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.*;
-
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
 @RestController
 @RequestMapping("/api/compuestos")
+@Tag(name = "Compuestos")
 public class CompuestoController {
     private final CompuestoService service;
 
@@ -35,8 +34,7 @@ public class CompuestoController {
 
     @GetMapping("/{id}/medicamentos")
     public ResponseEntity<List<CompuestoMedicamento>> getMedicamentosByCompuesto(
-            @PathVariable String id
-    ) {
+            @PathVariable String id) {
         return ResponseEntity.ok(service.getMedicamentosByCompuestoId(id));
     }
 
@@ -48,8 +46,7 @@ public class CompuestoController {
     @PutMapping("/{id}")
     public ResponseEntity<Compuesto> update(
             @PathVariable String id,
-            @Valid @RequestBody CompuestoRequest request
-    ) {
+            @Valid @RequestBody CompuestoRequest request) {
         return ResponseEntity.ok(service.updateCompuesto(id, request));
     }
 
