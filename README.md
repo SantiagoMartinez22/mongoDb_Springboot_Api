@@ -1,4 +1,4 @@
-# Proyecto Examen 4 - Tópicos Avanzados de Bases de Datos
+# Proyecto Examen 4 - Rest API con Mongo DB
 
 Este proyecto es una API REST desarrollada con Spring Boot y MongoDB para gestionar información sobre medicamentos y sus compuestos.
 
