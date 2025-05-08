@@ -2,15 +2,15 @@
   "_id": {
     "$oid": "6813a6d1c9f390b6c6ff728b"
   },
-  "nombre": "Paracetamol 500mg",
+  "nombre": "Acetaminofén 500mg",
   "fabricante": "Genfar"
 },
 {
   "_id": {
     "$oid": "6813a6d1c9f390b6c6ff728c"
   },
-  "nombre": "Ibuprofeno 400mg",
-  "fabricante": "MK"
+  "nombre": "Ibuprofeno",
+  "fabricante": "Genfar"
 },
 {
   "_id": {
@@ -25,4 +25,25 @@
   },
   "nombre": "Loratadina 10mg",
   "fabricante": "Bayer"
+},
+{
+  "_id": {
+    "$oid": "681c91e6a328fe625439bb92"
+  },
+  "nombre": "Noxpirin",
+  "fabricante": "Laboratorios Siegried"
+},
+{
+  "_id": {
+    "$oid": "681c95bea328fe625439bb99"
+  },
+  "nombre": "Mylanta",
+  "fabricante": "Laboratorio Elea"
+},
+{
+  "_id": {
+    "$oid": "681c98cfa328fe625439bba0"
+  },
+  "nombre": "Sales de rehidratación oral",
+  "fabricante": "Genéricos Coaspharma"
 }]

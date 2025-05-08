@@ -2,7 +2,7 @@
   "_id": {
     "$oid": "6813a6f7c9f390b6c6ff7291"
   },
-  "nombre": "Paracetamol"
+  "nombre": "Acetaminofén"
 },
 {
   "_id": {
@@ -27,4 +27,64 @@
     "$oid": "6813a6f7c9f390b6c6ff7295"
   },
   "nombre": "Cafeína Anhidra"
+},
+{
+  "_id": {
+    "$oid": "681c90c59c5c134131129662"
+  },
+  "nombre": "Fenilefrina Clorhidrato"
+},
+{
+  "_id": {
+    "$oid": "681c927ca328fe625439bb94"
+  },
+  "nombre": "Cetirizina"
+},
+{
+  "_id": {
+    "$oid": "681c92aba328fe625439bb96"
+  },
+  "nombre": "Cafeína"
+},
+{
+  "_id": {
+    "$oid": "681c9609a328fe625439bb9a"
+  },
+  "nombre": "Hidróxido de aluminio"
+},
+{
+  "_id": {
+    "$oid": "681c9648a328fe625439bb9c"
+  },
+  "nombre": "Hidróxido de magnesio"
+},
+{
+  "_id": {
+    "$oid": "681c968ba328fe625439bb9e"
+  },
+  "nombre": "Simeticona"
+},
+{
+  "_id": {
+    "$oid": "681c98fea328fe625439bba1"
+  },
+  "nombre": "Cloruro de sodio"
+},
+{
+  "_id": {
+    "$oid": "681c9931a328fe625439bba3"
+  },
+  "nombre": "Citrato de sodio dihidrato"
+},
+{
+  "_id": {
+    "$oid": "681c995aa328fe625439bba5"
+  },
+  "nombre": "Cloruro de potasio"
+},
+{
+  "_id": {
+    "$oid": "681c9989a328fe625439bba7"
+  },
+  "nombre": "Dextrosa anhidra"
 }]

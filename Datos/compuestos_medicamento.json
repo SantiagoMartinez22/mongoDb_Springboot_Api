@@ -1,26 +1,208 @@
-[
-  {
-    "compuestoId": { "$oid": "6813a6f7c9f390b6c6ff7291" },
-    "medicamentoId": { "$oid": "6813a6d1c9f390b6c6ff728b" },
-    "concentracion": { "$numberDouble": "500.0" },
-    "unidadMedida": "mg"
+[{
+  "_id": {
+    "$oid": "6813ab6fc9f390b6c6ff72a7"
   },
-  {
-    "compuestoId": { "$oid": "6813a6f7c9f390b6c6ff7292" },
-    "medicamentoId": { "$oid": "6813a6d1c9f390b6c6ff728c" },
-    "concentracion": { "$numberDouble": "400.0" },
-    "unidadMedida": "mg"
+  "compuestoId": {
+    "$oid": "6813a6f7c9f390b6c6ff7291"
   },
-  {
-    "compuestoId": { "$oid": "6813a6f7c9f390b6c6ff7293" },
-    "medicamentoId": { "$oid": "6813a6d1c9f390b6c6ff728d" },
-    "concentracion": { "$numberDouble": "250.0" },
-    "unidadMedida": "mg/5ml"
+  "medicamentoId": {
+    "$oid": "6813a6d1c9f390b6c6ff728b"
   },
-  {
-    "compuestoId": { "$oid": "6813a6f7c9f390b6c6ff7294" },
-    "medicamentoId": { "$oid": "6813a6d1c9f390b6c6ff728e" },
-    "concentracion": { "$numberDouble": "10.0" },
-    "unidadMedida": "mg"
-  }
-] 
+  "concentracion": 500,
+  "unidadMedida": "mg"
+},
+{
+  "_id": {
+    "$oid": "6813ab6fc9f390b6c6ff72a8"
+  },
+  "compuestoId": {
+    "$oid": "6813a6f7c9f390b6c6ff7292"
+  },
+  "medicamentoId": {
+    "$oid": "6813a6d1c9f390b6c6ff728c"
+  },
+  "concentracion": 400,
+  "unidadMedida": "mg"
+},
+{
+  "_id": {
+    "$oid": "6813ab6fc9f390b6c6ff72a9"
+  },
+  "compuestoId": {
+    "$oid": "6813a6f7c9f390b6c6ff7293"
+  },
+  "medicamentoId": {
+    "$oid": "6813a6d1c9f390b6c6ff728d"
+  },
+  "concentracion": 250,
+  "unidadMedida": "mg/5ml"
+},
+{
+  "_id": {
+    "$oid": "6813ab6fc9f390b6c6ff72aa"
+  },
+  "compuestoId": {
+    "$oid": "6813a6f7c9f390b6c6ff7294"
+  },
+  "medicamentoId": {
+    "$oid": "6813a6d1c9f390b6c6ff728e"
+  },
+  "concentracion": 10,
+  "unidadMedida": "mg"
+},
+{
+  "_id": {
+    "$oid": "681a0cdaf566cb0c18066b8f"
+  },
+  "compuestoId": {
+    "$oid": "6813a6f7c9f390b6c6ff7295"
+  },
+  "medicamentoId": {
+    "$oid": "6813a6d1c9f390b6c6ff728c"
+  },
+  "concentracion": 1000,
+  "unidadMedida": "mg"
+},
+{
+  "_id": {
+    "$oid": "681c9256a328fe625439bb93"
+  },
+  "compuestoId": {
+    "$oid": "6813a6f7c9f390b6c6ff7291"
+  },
+  "medicamentoId": {
+    "$oid": "681c91e6a328fe625439bb92"
+  },
+  "concentracion": 500,
+  "unidadMedida": "mg"
+},
+{
+  "_id": {
+    "$oid": "681c9296a328fe625439bb95"
+  },
+  "compuestoId": {
+    "$oid": "681c927ca328fe625439bb94"
+  },
+  "medicamentoId": {
+    "$oid": "681c91e6a328fe625439bb92"
+  },
+  "concentracion": 5,
+  "unidadMedida": "mg"
+},
+{
+  "_id": {
+    "$oid": "681c92c6a328fe625439bb97"
+  },
+  "compuestoId": {
+    "$oid": "681c92aba328fe625439bb96"
+  },
+  "medicamentoId": {
+    "$oid": "681c91e6a328fe625439bb92"
+  },
+  "concentracion": 30,
+  "unidadMedida": "mg"
+},
+{
+  "_id": {
+    "$oid": "681c92eaa328fe625439bb98"
+  },
+  "compuestoId": {
+    "$oid": "681c90c59c5c134131129662"
+  },
+  "medicamentoId": {
+    "$oid": "681c91e6a328fe625439bb92"
+  },
+  "concentracion": 10,
+  "unidadMedida": "mg"
+},
+{
+  "_id": {
+    "$oid": "681c9633a328fe625439bb9b"
+  },
+  "compuestoId": {
+    "$oid": "681c9609a328fe625439bb9a"
+  },
+  "medicamentoId": {
+    "$oid": "681c95bea328fe625439bb99"
+  },
+  "concentracion": 800,
+  "unidadMedida": "mg"
+},
+{
+  "_id": {
+    "$oid": "681c965ba328fe625439bb9d"
+  },
+  "compuestoId": {
+    "$oid": "681c9648a328fe625439bb9c"
+  },
+  "medicamentoId": {
+    "$oid": "681c95bea328fe625439bb99"
+  },
+  "concentracion": 800,
+  "unidadMedida": "mg"
+},
+{
+  "_id": {
+    "$oid": "681c969ca328fe625439bb9f"
+  },
+  "compuestoId": {
+    "$oid": "681c968ba328fe625439bb9e"
+  },
+  "medicamentoId": {
+    "$oid": "681c95bea328fe625439bb99"
+  },
+  "concentracion": 80,
+  "unidadMedida": "mg"
+},
+{
+  "_id": {
+    "$oid": "681c990ca328fe625439bba2"
+  },
+  "compuestoId": {
+    "$oid": "681c98fea328fe625439bba1"
+  },
+  "medicamentoId": {
+    "$oid": "681c98cfa328fe625439bba0"
+  },
+  "concentracion": 2.6,
+  "unidadMedida": "g"
+},
+{
+  "_id": {
+    "$oid": "681c9946a328fe625439bba4"
+  },
+  "compuestoId": {
+    "$oid": "681c9931a328fe625439bba3"
+  },
+  "medicamentoId": {
+    "$oid": "681c98cfa328fe625439bba0"
+  },
+  "concentracion": 2.9,
+  "unidadMedida": "g"
+},
+{
+  "_id": {
+    "$oid": "681c996ea328fe625439bba6"
+  },
+  "compuestoId": {
+    "$oid": "681c995aa328fe625439bba5"
+  },
+  "medicamentoId": {
+    "$oid": "681c98cfa328fe625439bba0"
+  },
+  "concentracion": 1.5,
+  "unidadMedida": "g"
+},
+{
+  "_id": {
+    "$oid": "681c9999a328fe625439bba8"
+  },
+  "compuestoId": {
+    "$oid": "681c9989a328fe625439bba7"
+  },
+  "medicamentoId": {
+    "$oid": "681c98cfa328fe625439bba0"
+  },
+  "concentracion": 13.5,
+  "unidadMedida": "g"
+}]
